@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...dalalhalabi07@gmail.com
 - 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ... My favorite anime is HXH.
--->
