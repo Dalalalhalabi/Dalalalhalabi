@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Improving my coding skills.
-- 🌱 I’m currently learning ... how to build a website.
+- 🌱 I’m currently learning ... how to implement SCA attacks using ML
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...dalalhalabi07@gmail.com
 - 😄 Pronouns: ...She/her
